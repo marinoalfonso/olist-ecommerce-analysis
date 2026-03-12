@@ -1,0 +1,17 @@
+# Dati — file grandi, si scaricano via Kaggle API
+data/
+
+# File di sistema macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ambiente virtuale
+venv/
+.venv/
+
+# Variabili d'ambiente — credenziali locali
+.env
